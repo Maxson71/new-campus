@@ -12,8 +12,8 @@ export default sidebar({
     {
       text: "Архітектура програмного забеспечення",
       // icon: "laptop-code",
-      prefix: "use cases/",
-      link: "use cases/",
+      prefix: "architecture/",
+      link: "architecture/",
       children: "structure",
       collapsible: true,
     },
